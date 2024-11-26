@@ -1,5 +1,6 @@
 # LLAMA3_RAG_portfolio_web
  My portfolio_web (using local LLM + RAG &LLM API)
+![Uploading RAG_使用畫面.png…]()
 
 # 本次的建構概念
 這次是針對先前的 本地llama3+claude api應用之個人作品集網站的改進版本
