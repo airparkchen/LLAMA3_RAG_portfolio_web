@@ -1,0 +1,46 @@
+portfolio-deploy/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Resume.js
+│   │   │   ├── CalorieEstimator.js
+│   │   │   └── PaperDisplay.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles/
+│   │       └── main.css
+│   ├── public/
+│   ├── package.json
+│   └── Dockerfile
+│
+├── backend/
+│   ├── app/
+│   │   ├── core/
+│   │   │   └── config.py
+│   │   ├── routers/
+│   │   │   ├── chat.py
+│   │   │   └── calories.py
+│   │   ├── services/
+│   │   │   ├── llm_service.py
+│   │   │   ├── rag_service.py
+│   │   │   ├── embedding_service.py
+│   │   │   └── claude_service.py
+│   │   └── main.py
+│   ├── models/
+│   │   ├── resume_store/        # RAG向量資料庫存放處
+│   │   └── Llama3-ChatQA-1.5-8B.gguf
+│   ├── resumes/
+│   │   └── EN_CV2.txt
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── scripts/                    # "還沒新增"的本地部署腳本目錄
+│   ├── setup_local.sh         # 環境設置腳本
+│   ├── run_backend.sh         # 後端啟動腳本
+│   ├── run_frontend.sh        # 前端啟動腳本
+│   └── check_env.py           # 環境檢查腳本
+│
+├── docker-compose.yml         # Docker 組合配置
+├── .env                      # 環境變量文件
+├── .gitignore
+└── README.md

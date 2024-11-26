@@ -1,0 +1,38 @@
+Job seeker's Name:Chen Chung-Yu
+
+Education: Master’s Degree in Electrical Engineering, National Taiwan Ocean University.
+
+Residence: Neihu District, Taipei City
+
+Desired Job Titles: AI Engineer, Algorithm Engineer, Software Engineer, R&D Engineer, Computer Vision AI Algorithm Engineer
+
+Personal Profile:
+
+Master’s graduate from the Department of Electrical Engineering, National Taiwan Ocean University, with a focus on Information Technology.
+
+Researched robust interactive gesture estimation, involving "AI algorithm development" and "deep learning."
+
+Part-time work experience at a cryptocurrency trading platform, responsible for maintaining and optimizing a quantitative trading system.
+
+Served as a teaching assistant for Python and C/C++ courses, including course planning and instruction.
+
+Proficient in "algorithm development," "image processing," and cloud technology, with strong teamwork skills.
+
+Proficient in Python (primary language), C/C++, capable of independently developing and deploying AI models.
+
+Familiar with Linux, Git/Github/Gitlab, and can quickly adapt to team-based development tasks.
+
+Regularly review new AI research papers, maintaining a passion for learning and continuous self-improvement.
+
+Interested in "generative models" and "large language models (LLM)" with experience in Finetuning deployment.
+
+Education: Master's | National Taiwan Ocean University, Department of Electrical Engineering; Bachelor’s | National Taiwan Ocean University, Department of Electrical Engineering.
+
+Language Skills: English (Listening - Proficient / Speaking - Intermediate / Reading - Intermediate / Writing - Intermediate) (TOEIC: 830)
+
+Preferred Locations: Kaohsiung City, Keelung City, New Taipei City, Hsinchu County, Taipei City, Taoyuan City.
+
+Current Job Experience:
+
+Chang Yu International Co., Ltd. (November 2021 - January 2022): Maintenance and optimization of a quantitative trading system (3 months).
+National Taiwan Ocean University (October 2020 - June 2024): Teaching Assistant for Python & C/C++ programming languages (3 years and 9 months).

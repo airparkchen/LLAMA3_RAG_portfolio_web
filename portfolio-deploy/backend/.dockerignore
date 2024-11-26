@@ -1,0 +1,10 @@
+models/
+*.gguf
+__pycache__/
+*.pyc
+.env
+.git
+.gitignore
+.pytest_cache
+.coverage
+htmlcov

@@ -1,0 +1,292 @@
+我叫陳重瑜，
+
+我在碩士時的研究項目是"強健互動手勢估測"，透過"模型演算法修改"、"影像處理"、"數據增強"來達到"遮擋下的辨識'、"辨識效能提升"、"訓練速度提升"...等優勢
+
+透過研究所兩年之間參與的專案，我在Pytorch、ML、AI模型搭建與開發、Python撰寫都有十分充足的實作經驗。
+
+LLM方面，有llama模型的本地部屬經驗(llama.cpp&Ollama)，也能夠透過API調用已訓練的線上模型。
+
+擅長使用Python進行AI模型與影像辨識程式的撰寫，同時在C/C++也有一定的程度。
+
+於研究所與大學工作期間，皆有參與團隊開發，能夠熟悉使用Git以及其他協作工具。
+我對AI發展非常有興趣，平時都會關注AI相關發展、HuggingFace上LLM相關的研究，也積極增進自我的科技知識，近期通過資策會「生成式AI能力認證」。
+
+- 碩士於國立台灣海洋大學電機所，專攻資訊科技。
+
+- 研究 強健互動手勢估測，涉及"AI演算法開發"與"深度學習"。
+
+- 曾兼職於虛擬貨幣交易平台，負責量化交易系統維運與優化。
+
+- 擔任Python及C/C++課程助教，規劃與教授課程。
+
+- 熟悉"演算法開發"、"影像處理"及雲端技術，具團隊合作能力。
+
+- 我擅長使用Python(主要)、C/C++進行開發與研究，能夠獨立完成AI模型的建設與部屬。
+
+- 熟悉Linux、Git/Github/Gitlab，能夠快速加入團隊進行開發作業。
+
+- 會關注新發表的AI相關論文，保持學習的熱忱、促使自己不斷的進步。
+
+- 喜歡研究"生成式模型"與"LLM大型語言模型"，並有實作部屬Finetuning經驗。
+
+學歷：碩士 | 國立臺灣海洋大學 電機工程學系、大學 | 國立臺灣海洋大學 電機工程學系
+語言能力：英文 (聽精通/說中等/讀中等/寫中等)(TOEIC (多益測驗) 830分)
+地區偏好：高雄市、基隆市、新北市、新竹縣市、台北市、桃園市
+現職：2021/11~2022/1 昶裕國際股份有限公司 量化交易系統維運及優化(3個月)
+2020/10~2024/6 國立台灣海洋大學 Python&C/C++語言程式助教(3年9個月)
+
+# 個人資料
+姓名：陳重瑜
+居住地：台北市內湖區
+電子郵件：airparkchen@gmail.com
+
+# 個人特質
+- 持續學習：定期閱讀AI相關論文和技術文章
+- 解決問題：善於分析問題並找出解決方案
+- 團隊合作：具有良好的溝通能力和團隊精神
+- 時間管理：能夠有效安排任務優先順序
+
+# 教育背景
+## 碩士學位
+- 學校：國立臺灣海洋大學
+- 科系：電機工程學系
+- 實驗室：智慧生活科技實驗室
+- 時間：2022/9 - 2024/9
+- 研究方向：AI演算法開發、深度學習
+- 論文題目：強健互動手勢估測
+
+## 學士學位
+- 學校：國立臺灣海洋大學
+- 科系：電機工程學系
+
+# 工作經驗
+
+碩士班研究生 國立台灣海洋大學
+協助研究室專案與研究事務:
+
+1.協助研究所計畫研究 (AI、機器學習、影像處理)
+
+2.指導輔助學弟妹進行科學、程式研究 (課程協助、研究指導)
+
+3.擔任課程助教
+
+4.Linux伺服器、NAS維護與使用
+
+關鍵技術: "AI"、"ML/DL"、"Computer Vision"、"GAN"、"Linux"、"Git"
+
+#Python #C++ #C #軟體工程系統開發 #Linux #Github
+
+量化交易系統維運及優化(軟體工程師) 昶裕國際股份有限公司
+參與量化交易相關專案，負責協助金融演算法工程師於虛擬貨幣平台之操作。
+
+工作內容包括:
+
+1.量化交易系統維護及管理
+
+2.精簡程式碼，優化運作效率
+
+3.監控系統之設計與維護(網頁及Telegram)
+
+關鍵技術: "Python"、"API"、"Git"、"Github"
+
+#Python #BlcokChain #Git #Github #DevOps
+
+希望職稱
+AI工程師、演算法工程師、Devops工程師、軟體工程師、研發工程師、電腦視覺AI演算法工程師
+希望職類
+演算法工程師、半導體工程師、軟體工程師、AI工程師、系統工程師
+
+# 專業技能
+## 程式語言
+- Python（主要開發語言）
+- C/C++
+- Git
+
+## AI/機器學習
+- 深度學習框架：PyTorch
+- 電腦視覺：OpenCV, MediaPipe, PIL, 圖學原理
+- 自然語言處理：Transformers
+- 大型語言模型：LangChain, llama.cpp
+- 工具: Numpy, Pandas
+- 模型: NLP, GAN, CNN, RNN, LSTM, VIT
+
+## 開發工具
+- Git/Github/Gitlab
+- Docker
+- Linux系統
+- WSL
+- Visual Studio Code
+
+# 語言能力
+- 英語：TOEIC 830分
+  - 聽力：精通
+  - 口說：中等
+  - 閱讀：中等
+  - 寫作：中等
+- 中文：母語
+
+# 專案經驗
+## 強健互動手勢估測（碩士論文）
+- 使用深度學習進行手部姿態估計
+- 實現即時手勢識別系統
+- 改進現有算法，提高準確度
+
+## 量化交易系統
+- 開發自動交易策略
+- 實現風險管理機制
+- 建立即時監控系統
+
+#中文自傳
+[關於我]
+
+- 碩士於國立台灣海洋大學電機所，專攻資訊科技，主要研究"影像處理"及"深度學習、AI演算法開發"，目的在進行跨領域AI應用並透過"數據分析處理"、"演算法改良"來優化模型。
+
+- 論文研究強健互動手勢估測，涉及"AI演算法開發"與"深度學習"，透過添加Vision Transformer模塊以及數據增強來進一步優化現有模型。
+
+- 熟悉"機器學習"、"數據處理"、"演算法開發"，具備跨領域思考及團隊合作能力。
+
+- 精通 Python (主要)、C/C++，能獨立進行 AI 模型開發、部屬及優化。
+
+我的跨領域背景，從大學的硬體韌體設計，到研究所專精於 AI 演算法，使我在解決問題時能夠靈活運用不同技術，快速適應新領域。
+
+
+
+課外競賽 的經驗讓我 無時無刻都在尋求創新，我不只是能夠使用模型，我也同時擁有創新的想法
+
+專題 的經驗讓我 從大學開始就對AI科技十分感興趣，至今碩士畢業已經閱讀與實作了各式知名模型、能夠為專案尋找合適的模型來使用
+
+工作 的經驗讓我 熟悉協作工具Git/Github，能夠快速加入團隊進行作業
+
+研究所 的經驗讓我 能夠獨立完成論文AI模型復現與部屬、能夠靈活使用AI模型進行跨領域使用、能夠針對改善目標進行模型演算法修改。
+
+
+
+[經歷]
+
+一、研究生 | 智慧生活科技研究所
+
+
+
+於海洋電機所-資訊科技組之"智慧生活科技研究所"擔任研究生。
+
+研究論文是"強健性互動手勢估測"，主要是透過部分"數據增強"以及"演算法修改"來增強既有模型的強健性，
+
+研究過程中學習了"AI"、"影像處理"、"Vision Transformer"、"Data Argument"、"Reinforce Learning"、"GAN生成式網絡"相關知識。
+
+能夠獨立完成論文AI模型復現與部屬、能夠靈活使用AI模型進行跨領域使用、能夠針對改善目標進行模型演算法修改。
+
+
+
+關鍵技術: AI、影像處理、Vision Transformer、數據增強、強化學習、GAN 生成對抗網絡、Python、C、C++、Linux。
+
+
+
+二、量化交易系統維護 | 虛擬貨幣平台公司
+
+
+
+大學期間短期兼職虛擬貨幣平台公司進行量化交易系統維護。
+
+工作內容主要是量化交易系統的維護與優化，通過 Python 撰寫與 API 互動的工具，協助專案內金融演算法工程師進行維運與優化之程式撰寫，我負責數據分析及自動化報告生成，並將結果通過 Telegram bot 實時發送給團隊，從而協助策略的實施。
+
+因此熟悉 Git/Github 等協作工具，能夠高效協同量化團隊推動實時模型的實現。
+
+
+
+關鍵技術: Python、API、數據分析、Git、Github。
+
+
+
+三、專題生 | 智慧生活科技實驗室
+
+
+
+在大三時期，我參與了以深度學習為主題的專題研究，題目為「透過 YOLO 目標檢測演算法進行海洋垃圾辨識」。該項目結合了機器學習與電機技術，旨在減少環保工作中的人力消耗，並提升垃圾辨識的效率。專題中，我學會了從資料蒐集到模型訓練和調參的完整流程，並在實際應用中驗證了模型的可行性。
+
+曾經閱讀並實作了各類知名模型，包括 YOLO、DNN、NN、CNN，具備熟練應用模型於不同專案中的能力。
+
+
+關鍵技術: YOLO、深度神經網絡 (DNN)、卷積神經網絡 (CNN)、數據預處理。
+
+
+
+
+
+[持續學習與創新]
+
+我會持續關注AI演算法、機器學習、區塊鏈及其他應用領域。如 Llama、Stable Diffusion 等，並通過閱讀論文及參與技術社群保持對前沿技術的掌握。
+
+
+
+
+
+[關鍵技術]
+
+語言與工具: Python、C、C++、Linux、Git、Github、API。
+技術專長: 機器學習、數據分析、深度學習（DNN、CNN、GAN）、Vision Transformer、YOLO 目標檢測、強化學習。
+領域專長: 金融數據預測、影像處理、自動化交易系統、區塊鏈技術（DeFi、NFT）。
+
+英文自傳
+[About Me]
+Master's degree from the Department of Electrical Engineering at National Taiwan Ocean University, specializing in information technology with a focus on "image processing" and "deep learning, AI algorithm development." My goal is to apply AI across different fields and optimize models through "data analysis and processing" and "algorithm improvements."
+My thesis research focused on robust interactive gesture estimation, involving "AI algorithm development" and "deep learning," where I enhanced existing models by integrating Vision Transformer modules and data augmentation.
+Proficient in "machine learning," "data processing," and "algorithm development," with cross-disciplinary thinking and teamwork capabilities.
+Skilled in Python (primary), C/C++, capable of independently developing, deploying, and optimizing AI models.
+My interdisciplinary background, from hardware and firmware design during my undergraduate years to AI algorithm specialization during graduate school, allows me to apply various technologies flexibly and quickly adapt to new fields when solving problems.
+
+
+
+Extracurricular competition experience constantly drives me to seek innovation. I not only apply models but also bring creative ideas to the table.
+
+Project experience has made me passionate about AI technology since my undergraduate studies. By the time I completed my master's, I had read and implemented various renowned models and can identify suitable models for different projects.
+
+Work experience has made me familiar with collaboration tools like Git/Github, allowing me to quickly integrate into teams and contribute effectively.
+
+Graduate research experience has enabled me to independently reproduce and deploy AI models for my thesis, apply AI models flexibly across different fields, and modify algorithms to meet improvement goals.
+
+
+
+[Experience]1. Graduate Researcher | Institute of Smart Living Technology
+I worked as a graduate researcher at the Institute of Smart Living Technology under the Department of Electrical Engineering at National Taiwan Ocean University.
+
+My research thesis was "Robust Interactive Gesture Estimation," primarily enhancing existing models through "data augmentation" and "algorithm modifications" to improve robustness.
+
+During the research process, I gained knowledge in "AI," "image processing," "Vision Transformer," "data augmentation," "reinforcement learning," and "GAN (Generative Adversarial Networks)."
+
+I am capable of independently reproducing and deploying AI models for research, flexibly applying AI models across fields, and modifying algorithms to meet specific improvement objectives.
+
+Key Technologies: AI, image processing, Vision Transformer, data augmentation, reinforcement learning, GANs, Python, C, C++, Linux.
+
+
+
+2. Quantitative Trading System Maintenance | Virtual Currency Platform Company
+During my undergraduate studies, I worked part-time at a virtual currency platform company, maintaining the quantitative trading system.
+
+My responsibilities mainly included maintaining and optimizing the trading system by developing tools using Python to interact with APIs. I assisted financial algorithm engineers by writing scripts for operations and optimization, analyzing data, and generating automated reports. The results were sent to the team in real-time via a Telegram bot, helping to implement trading strategies.
+
+I am familiar with collaboration tools like Git/Github, allowing me to effectively collaborate with the quantitative team to implement real-time models.
+
+Key Technologies: Python, API, data analysis, Git, Github.
+
+
+
+3. Project Researcher | Smart Living Technology Lab
+During my junior year, I participated in a deep learning research project titled "Marine Waste Recognition Using the YOLO Object Detection Algorithm." This project combined machine learning with electrical engineering technologies, aiming to reduce the labor involved in environmental protection work and improve waste recognition efficiency. Through the project, I learned the complete process from data collection to model training and fine-tuning, and I validated the feasibility of the model in practical applications.
+
+I have read and implemented various well-known models, including YOLO, DNN, NN, and CNN, and I am skilled in applying these models across different projects.
+
+Key Technologies: YOLO, Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), data preprocessing.
+
+
+
+[Continuous Learning and Innovation]
+I continuously keep track of AI algorithms, machine learning, blockchain, and other application areas such as Llama and Stable Diffusion. By reading research papers and participating in technical communities, I stay up-to-date with the latest cutting-edge technologies.
+
+
+
+[Key Skills]
+Languages and Tools: Python, C, C++, Linux, Git, Github, API.
+
+Technical Expertise: Machine learning, data analysis, deep learning (DNN, CNN, GAN), Vision Transformer, YOLO object detection, reinforcement learning.
+
+Domain Expertise: Financial data prediction, image processing, automated trading systems, blockchain technology (DeFi, NFT).

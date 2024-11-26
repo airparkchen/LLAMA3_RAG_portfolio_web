@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.chat-message-container {
+  @apply mb-4;
+}
+
+.chat-message {
+  @apply max-w-[75%] rounded-lg p-3;
+}
+
+.user-message {
+  @apply bg-blue-500 text-white ml-auto;
+}
+
+.bot-message {
+  @apply bg-gray-200 text-gray-800;
+}

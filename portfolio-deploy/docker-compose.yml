@@ -1,0 +1,42 @@
+# 文件位置: docker-compose.yml
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+      - ./models:/app/models:ro
+      - ./backend/models/resume_store:/app/models/resume_store
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - MODEL_PATH=/app/models/Llama3-ChatQA-1.5-8B.gguf
+      - RESUME_PATH=/app/resumes/EN_CV2.txt
+      - MODEL_VERSION=llama3
+      - LOG_LEVEL=INFO
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  frontend:
+    # 前端配置保持不變
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend/src:/app/src
+      - ./frontend/public:/app/public
+      - /app/node_modules
+    environment:
+      - REACT_APP_API_URL=http://backend:8000
+    depends_on:
+      - backend

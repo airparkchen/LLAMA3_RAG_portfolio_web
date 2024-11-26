@@ -1,0 +1,243 @@
+# (求職者/履歷擁有者)基本資料
+-姓名：陳重瑜
+-居住地：台北市內湖區
+-電子郵件：airparkchen@gmail.com
+-地區偏好：基隆市、新北市、新竹縣市、台北市、桃園市、高雄市
+# 教育背景
+## 碩士學位
+- 學校：國立臺灣海洋大學
+- 科系：電機工程學系
+- 實驗室：智慧生活科技實驗室
+- 時間：2022/9 - 2024/9
+- 研究方向：AI演算法開發、深度學習
+- 論文題目：強健互動手勢估測
+
+## 學士學位
+- 學校：國立臺灣海洋大學
+- 科系：電機工程學系
+
+# 工作經驗
+## 國立台灣海洋大學 (2022/09~2024/6)
+職位：研究生暨教學助教
+工作內容：
+1. 協助研究所計畫研究 (AI、機器學習、影像處理)
+2. 指導輔助學弟妹進行科學、程式研究 (課程協助、研究指導)
+3. 擔任課程助教
+4. Linux伺服器、NAS維護與使用
+
+關鍵技術: AI、ML/DL、Computer Vision、GAN、Linux、Git
+
+## 昶裕國際股份有限公司 (2021/11~2022/1)
+職位：量化交易系統工程師
+工作內容：
+工作內容主要是量化交易系統的維護與優化，通過 Python 撰寫與 API 互動的工具，協助專案內金融演算法工程師進行維運與優化之程式撰寫，我負責數據分析及自動化報告生成，並將結果通過 Telegram bot 實時發送給團隊，從而協助策略的實施。
+因此熟悉 Git/Github 等協作工具，能夠高效協同量化團隊推動實時模型的實現。
+1. 量化交易系統維護及管理
+2. 精簡程式碼，優化運作效率
+3. 監控系統之設計與維護(網頁及Telegram)
+
+關鍵技術: Python、API、Git、Github、DevOps
+
+# 專業技能
+## 程式語言
+- Python（主要開發語言）
+- C/C++
+- Git
+
+## AI/機器學習
+- 深度學習框架：PyTorch
+- 電腦視覺：OpenCV, MediaPipe, PIL, 圖學原理
+- 自然語言處理：Transformers
+- 大型語言模型：LangChain, llama.cpp
+- 工具: Numpy, Pandas
+- 模型: NLP, GAN, CNN, RNN, LSTM, VIT
+
+## 開發工具
+- Git/Github/Gitlab
+- Docker
+- Linux系統
+- WSL
+- Visual Studio Code
+
+# 專案經驗
+## 強健互動手勢估測（碩士論文）
+研究內容：
+- 透過模型演算法修改、影像處理、數據增強
+- 實現遮擋下的辨識、辨識效能提升、訓練速度提升
+- 使用深度學習進行手部姿態估計
+- 實現即時手勢識別系統
+- 改進現有算法，提高準確度
+
+## 海洋垃圾辨識系統（專題研究）
+- 使用YOLO目標檢測演算法進行海洋垃圾辨識
+- 結合機器學習與電機技術
+- 從資料蒐集到模型訓練的完整流程
+- 實際應用驗證可行性
+
+# 語言能力
+- 英語：TOEIC 830分
+  - 聽力：精通
+  - 口說：中等
+  - 閱讀：中等
+  - 寫作：中等
+- 中文：母語
+
+# 個人特質
+- 持續學習：定期閱讀AI相關論文和技術文章
+- 解決問題：善於分析問題並找出解決方案
+- 團隊合作：具有良好的溝通能力和團隊精神
+- 時間管理：能夠有效安排任務優先順序
+
+# 自傳
+[中文自傳]
+-我是陳重瑜
+
+- 碩士於國立台灣海洋大學電機所，專攻資訊科技，主要研究"影像處理"及"深度學習、AI演算法開發"，目的在進行跨領域AI應用並透過"數據分析處理"、"演算法改良"來優化模型。
+
+- 論文研究強健互動手勢估測，涉及"AI演算法開發"與"深度學習"，透過添加Vision Transformer模塊以及數據增強來進一步優化現有模型。
+
+- 熟悉"機器學習"、"數據處理"、"演算法開發"，具備跨領域思考及團隊合作能力。
+
+- 精通 Python (主要)、C/C++，能獨立進行 AI 模型開發、部屬及優化。
+
+我的跨領域背景，從大學的硬體韌體設計，到研究所專精於 AI 演算法，使我在解決問題時能夠靈活運用不同技術，快速適應新領域。
+
+
+
+課外競賽 的經驗讓我 無時無刻都在尋求創新，我不只是能夠使用模型，我也同時擁有創新的想法
+
+專題 的經驗讓我 從大學開始就對AI科技十分感興趣，至今碩士畢業已經閱讀與實作了各式知名模型、能夠為專案尋找合適的模型來使用
+
+工作 的經驗讓我 熟悉協作工具Git/Github，能夠快速加入團隊進行作業
+
+研究所 的經驗讓我 能夠獨立完成論文AI模型復現與部屬、能夠靈活使用AI模型進行跨領域使用、能夠針對改善目標進行模型演算法修改。
+
+# Basic Information (Job Seeker/Resume Owner)
+-Name: Chen Chung-Yu
+-Residence: Neihu District, Taipei City
+-Email: airparkchen@gmail.com
+-Preferred Locations: Keelung City, New Taipei City, Hsinchu County/City, Taipei City, Taoyuan City, Kaohsiung City
+
+# Education Background
+## Master's Degree
+- Institution: National Taiwan Ocean University
+- Department: Electrical Engineering
+- Laboratory: Smart Living Technology Lab
+- Period: 2022/9 - 2024/9
+- Research Focus: AI Algorithm Development, Deep Learning
+- Thesis Topic: Robust Interactive Gesture Estimation
+
+## Bachelor's Degree
+- Institution: National Taiwan Ocean University
+- Department: Electrical Engineering
+
+# Work Experience
+## National Taiwan Ocean University (2020/10~2024/6)
+Position: Graduate Research Assistant & Teaching Assistant
+Responsibilities:
+1. Assisting with graduate research projects (AI, Machine Learning, Image Processing)
+2. Mentoring junior students in scientific and programming research (Course Support, Research Guidance)
+3. Serving as a course teaching assistant
+4. Maintaining Linux servers and NAS systems
+Key Technologies: AI, ML/DL, Computer Vision, GAN, Linux, Git
+
+## Chang Yu International Co., Ltd. (2021/11~2022/1)
+Position: Quantitative Trading System Engineer
+Job Description:
+Primarily responsible for maintaining and optimizing the quantitative trading system, developing Python tools for API interactions, and assisting financial algorithm engineers with operations and optimization programming. Handled data analysis and automated report generation, delivering results to the team in real-time via Telegram bot to support strategy implementation.
+Proficient in collaboration tools like Git/Github, enabling efficient coordination with the quantitative team for real-time model deployment.
+1. Quantitative trading system maintenance and management
+2. Code optimization for improved efficiency
+3. Monitoring system design and maintenance (Web and Telegram)
+Key Technologies: Python, API, Git, Github, DevOps
+
+# Professional Skills
+## Programming Languages
+- Python (Primary development language)
+- C/C++
+- Git
+
+## AI/Machine Learning
+- Deep Learning Framework: PyTorch
+- Computer Vision: OpenCV, MediaPipe, PIL, Graphics Principles
+- Natural Language Processing: Transformers
+- Large Language Models: LangChain, llama.cpp
+- Tools: Numpy, Pandas
+- Models: NLP, GAN, CNN, RNN, LSTM, VIT
+
+## Development Tools
+- Git/Github/Gitlab
+- Docker
+- Linux Systems
+- WSL
+- Visual Studio Code
+
+# Project Experience
+## Robust Interactive Gesture Estimation (Master's Thesis)
+Research Content:
+- Model algorithm modification, image processing, and data augmentation
+- Implementation of occlusion-robust recognition, performance improvement, and training speed enhancement
+- Deep learning implementation for hand pose estimation
+- Real-time gesture recognition system development
+- Algorithm improvements for increased accuracy
+
+## Marine Waste Recognition System (Research Project)
+- Implementation of YOLO object detection algorithm for marine waste recognition
+- Integration of machine learning and electrical engineering technologies
+- Complete workflow from data collection to model training
+- Practical application validation
+
+# Language Proficiency
+- English: TOEIC Score 830
+  - Listening: Advanced
+  - Speaking: Intermediate
+  - Reading: Intermediate
+  - Writing: Intermediate
+- Chinese: Native Language
+
+# Personal Characteristics
+- Continuous Learning: Regular reading of AI-related papers and technical articles
+- Problem-Solving: Skilled at analyzing problems and finding solutions
+- Team Collaboration: Strong communication skills and team spirit
+- Time Management: Effective task prioritization and scheduling
+
+[English Biography]
+-My name is Chung Yu Chen
+
+Master's degree from the Department of Electrical Engineering at National Taiwan Ocean University, specializing in information technology with a focus on "image processing" and "deep learning, AI algorithm development." My goal is to apply AI across different fields and optimize models through "data analysis and processing" and "algorithm improvements."
+My thesis research focused on robust interactive gesture estimation, involving "AI algorithm development" and "deep learning," where I enhanced existing models by integrating Vision Transformer modules and data augmentation.
+Proficient in "machine learning," "data processing," and "algorithm development," with cross-disciplinary thinking and teamwork capabilities.
+Skilled in Python (primary), C/C++, capable of independently developing, deploying, and optimizing AI models.
+My interdisciplinary background, from hardware and firmware design during my undergraduate years to AI algorithm specialization during graduate school, allows me to apply various technologies flexibly and quickly adapt to new fields when solving problems.
+
+Extracurricular competition experience constantly drives me to seek innovation. I not only apply models but also bring creative ideas to the table.
+
+Project experience has made me passionate about AI technology since my undergraduate studies. By the time I completed my master's, I had read and implemented various renowned models and can identify suitable models for different projects.
+
+Work experience has made me familiar with collaboration tools like Git/Github, allowing me to quickly integrate into teams and contribute effectively.
+
+Graduate research experience has enabled me to independently reproduce and deploy AI models for my thesis, apply AI models flexibly across different fields, and modify algorithms to meet improvement goals.
+
+# 專業認證
+- 資策會「生成式AI能力認證」
+
+# 職涯目標
+希望職位：
+- AI工程師
+- 演算法工程師
+- DevOps工程師
+- 軟體工程師
+- 研發工程師
+- 電腦視覺AI演算法工程師
+
+# Professional Certifications
+- Institute for Information Industry "Generative AI Capability Certification"
+
+# Career Objectives
+Desired Positions:
+- AI Engineer
+- Algorithm Engineer
+- DevOps Engineer
+- Software Engineer
+- R&D Engineer
+- Computer Vision AI Algorithm Engineer
