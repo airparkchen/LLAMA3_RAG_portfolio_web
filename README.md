@@ -15,7 +15,8 @@ AI 整合：
     Claude 3.5 Sonnet API 用於圖片分析和熱量估算
 
 特色技術：
-RAG (Retrieval-Augmented Generation) 系統實作：
+RAG (Retrieval-Augmented Generation) 
+系統實作：
     文本處理：使用 LangChain 的 RecursiveCharacterTextSplitter 進行分塊
     向量化：使用 sentence-transformers/all-MiniLM-L6-v2 模型
     向量資料庫：使用 FAISS (Facebook AI Similarity Search)
@@ -115,23 +116,23 @@ Node.js 16+
 保留資料的關閉：docker-compose down
 完全清除重來：docker-compose down --rmi all -v
 
-# 第一次啟動或需要重新建置
+## 第一次啟動或需要重新建置
 docker-compose up --build
 
-# 一般啟動（不需要重新建置）
+## 一般啟動（不需要重新建置）
 docker-compose up
 
-# 暫停運行（保留所有容器、映像和數據）
+## 暫停運行（保留所有容器、映像和數據）
 docker-compose stop
 
-# 或者使用 down 但不刪除卷（保留下載的套件）
+## 或者使用 down 但不刪除卷（保留下載的套件）
 docker-compose down
 
-# 刪除所有內容（容器、映像、卷）
+## 刪除所有內容（容器、映像、卷）
 docker-compose down --rmi all -v --remove-orphans
 
-# 然後清理系統
+## 然後清理系統
 docker system prune -a -f --volumes
 
-# 重新建置
+## 重新建置
 docker-compose up --build
