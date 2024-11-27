@@ -110,3 +110,28 @@ Node.js 16+
 16GB+ RAM
 模型文件: Llama3-ChatQA-1.5-8B.gguf 
 
+# Docker指令
+日常開關：docker-compose up / docker-compose stop
+保留資料的關閉：docker-compose down
+完全清除重來：docker-compose down --rmi all -v
+
+# 第一次啟動或需要重新建置
+docker-compose up --build
+
+# 一般啟動（不需要重新建置）
+docker-compose up
+
+# 暫停運行（保留所有容器、映像和數據）
+docker-compose stop
+
+# 或者使用 down 但不刪除卷（保留下載的套件）
+docker-compose down
+
+# 刪除所有內容（容器、映像、卷）
+docker-compose down --rmi all -v --remove-orphans
+
+# 然後清理系統
+docker system prune -a -f --volumes
+
+# 重新建置
+docker-compose up --build
