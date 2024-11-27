@@ -4,6 +4,7 @@
 volumes:
   python-packages:    # 後端 Python 依賴
   node_modules:       # 前端 Node.js 依賴
+  resume_store:      # RAG 向量存儲
 
 services:
   backend:
@@ -14,8 +15,8 @@ services:
       - "8000:8000"
     volumes:
       - ./backend/app:/app/app
-      - ./models:/app/models:ro
-      - ./backend/models/resume_store:/app/models/resume_store
+      - ./backend/models:/app/models:ro                 # 模型目錄，唯讀
+      - resume_store:/app/models/resume_store           # 使用 named volume
       - python-packages:/usr/local/lib/python3.9/site-packages
     environment:
       - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
@@ -45,8 +46,3 @@ services:
       - REACT_APP_API_URL=http://backend:8000
     depends_on:
       - backend
-
-#docker-compose down -v # 刪除舊的 volume
-
-
-#docker-compose up --build # 重新建置

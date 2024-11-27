@@ -11,10 +11,11 @@ RUN apt-get update && apt-get install -y \
     python3-pip \
     build-essential \
     python3-dev \
+    ninja-build \
     && rm -rf /var/lib/apt/lists/*
 
-# 建立必要的目錄
-RUN mkdir -p /app/models /app/resumes /app/models/resume_store
+# 建立必要的目錄，但不包含 resume_store (會由 volume mount)
+RUN mkdir -p /app/models /app/resumes
 
 # 複製依賴文件並安裝
 COPY requirements.txt .
