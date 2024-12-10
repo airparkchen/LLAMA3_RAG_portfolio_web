@@ -136,3 +136,15 @@ docker system prune -a -f --volumes
 
 ## 重新建置
 docker-compose up --build
+
+### 常見錯誤
+#### 如有遇到載入模型後的錯誤
+ex:
+'
+Error initializing Llama model: exception: access violation reading 0x0000000000000000
+可以嘗試更新套件
+pip install anthropic==0.8.1
+pip install llama-cpp-python==0.3.1
+#### 如遇到cache_downloa問題
+請確認hf版(0.26.1有修正語法)
+pip install huggingface-hub==0.26.1  (或降版本) 
